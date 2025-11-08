@@ -16,7 +16,7 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship", 
+ "Phật pháp", "Nich ngon", "Reddit Relationship Advice", "Reddit Relationship", 
 "Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught", 
 "Stories Cheat", "X GF Reddit", "AskReddit Surviving Infidelity", "GurlCan Reddit", 
 "Cheating Story Actually Happened", "Cheating Story Real", "True Cheating Story", 
